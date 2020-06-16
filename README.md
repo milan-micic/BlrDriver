@@ -1,4 +1,5 @@
 # Sinta
 ## Simple game in as3 and flixel
-![screenshoot](src/resursi/Screenshot.png "screenshot")  
-[Link](https://milan-micic.github.io/brldriver/)
+![screenshoot 1](src/slike/Screenshot.png "screenshot 1")  
+![screenshoot 2](src/slike/Screenshot1.png "screenshot 2")  
+[Link](https://milan-micic.github.io/BrlDriver/)
